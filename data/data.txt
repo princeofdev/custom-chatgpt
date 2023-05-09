@@ -1,0 +1,60 @@
+Four Emerging Trends in Educational Technology in 2023
+After moving to remote learning during the COVID-19 pandemic, there was a significant upswing in students’ and educators’ reliance on educational technology. As we transition out of strictly at-home learning, here are some emerging trends in educational technology for this year.
+
+This survey by Education Weekly highlights the potential benefits and pitfalls of using technology in the classroom. Ultimately—if used correctly—educational technology makes learning more accessible, can increase student engagement, and can also potentially reduce costs. Not to mention, strategically implementing educational technology in classrooms can help teachers more efficiently balance their workloads and focus their efforts on time spent in the classroom.
+
+What is EdTech and why is it so important?
+EdTech is short for educational technology, and many believe it is the future of education. With the rapid advancement of technology, more resources are introduced that can be potentially life-changing for the education system as we know it.
+
+There are new studies being done on the effectiveness of edtech in the classroom, and many have shown promising potential. At its best, educational technology makes learning accessible and engaging for everyone; it can also help with creating individualized curricula for students who might need more support in certain subject areas.
+
+As technology continues to develop along with awareness of the need to increase edtech accessibility and training, an entirely new landscape for teaching and learning unfolds. Here are four emerging trends in educational technology expected to change the frontier of learning this year.
+
+1. Microlearning
+
+While it is a common belief that due to social media platforms like TikTok, our attention spans are getting shorter. This isn’t necessarily true—technology is just changing in a way that takes advantage of the way human attention spans work. Instead of fighting it, microlearning is a technique that delivers lessons to students in bite-sized chunks, while allowing them to control the pace at which they learn.
+
+Microlearning consists of a few key characteristics:
+
+It’s short. Lessons usually take 5-15 minutes or less.
+Lessons are focused. They only cover one topic at a time.
+They’re interactive. Each lesson includes interactive components to keep students engaged.
+Flexibility is key. Microlearning lessons are able to be used alone or within a larger classroom environment, and students can choose what pace they want to take each lesson.
+Microlearning is likely to become more popular this year as educators adapt to the changing attention spans of their students. But microlearning isn’t only beneficial for students—it can also help teachers. Grading and going over material becomes easier when students are able to explore learning independently.
+
+2. AI Programs Like ChatGPT
+
+ChatGPT has been a hot-button topic lately, with most of the conversations revolving around the concern of students using AI for assignments. While there are valid concerns surrounding the growing accessibility of AI programs, educators are also able to use these technologies to their advantage.
+
+One survey shows that principals work an average of 62 hours per week, while teachers work an average of 55 hours per week. Through AI technology like ChatGPT, educators can prioritize time with students, or take much-needed time for themselves by having the chatbot help them with tasks like:
+
+Building lesson plans
+Writing emails
+Tests and grading
+Creating rubrics
+Providing students with feedback
+While many teachers have been hesitant to use AI to help them with these sorts of tasks, those who try it find it can save hours of time. With the current teacher shortage, burnout and retention rates are some of the most pressing issues; implementing AI technology could help educators avoid burnout and allow them to prioritize time spent with students in the classroom.
+
+3. Augmented and Virtual Reality (AR/VR)
+
+AR and VR technologies have been on the rise during the past decade, and the COVID-19 pandemic only sped up the process of implementing these technologies in our education systems.
+
+Augmented Reality (AR) overlays computer-generated 3D content on top of the real world, so users are able to interact with both the real and digital worlds at the same time.
+
+Virtual Reality (VR) is completely computer-generated, and users can only interact with the digital world.
+
+According to the Information Technology & Innovative Foundation (ITIF), “AR/VR can provide K–12 educators with interactive and engaging tools for classroom learning. These include libraries of immersive content, experiences for specific subjects or learning objectives, and tools for students with learning disabilities.”
+
+AR and VR technologies allow students to immerse themselves in whatever subject they’re learning about. Imagine being able to see ancient Egypt right before your eyes, instead of just reading about it in a history book. This advanced technology has the potential to get students excited and engaged with all sorts of subjects, some of which they might not normally be as interested in.
+
+4. Gamification
+
+Similar to AR/VR and microlearning, gamification is a method of introducing technology into the classroom in a way that keeps students engaged. More programs are being introduced that bring fun into learning, and we predict this will become an even more necessary part of education following the COVID-19 pandemic.
+
+Programs like Kahoot!, Quizlet, and Duolingo have been rising in popularity in the last few years, but now even more websites are implementing educational gamification. Games like Minecraft and Roblox have come out with educational versions of their programs that allow students to participate in fun, exciting, and hands-on activities in games they’re already familiar with.
+
+While gamification can be an incredibly useful tool within the classroom, it has to be implemented correctly. This study concludes that educators must take into account their students and their classroom environment to determine if gamification is the right route to take when teaching certain subjects. With so many gaming programs developing programs that can be introduced into the classroom, we’re sure gamification will become increasingly popular.
+
+As new technology and additional uses for previously integrated edtech emerge, schools in today's cybersociety should be more diligent than ever in creating a safe and productive digital environment for students. By harnessing the power of VR/AR and AI, teachers can open the doors to learning in a whole new manner, and schools are likely to see an increase in both engagement and understanding of critical skills. When tied into successful learning practices such as blended learning and research-backed, computer-based education programs, the learning of the future looks promising to say the least.
+
+To learn more about the benefits of edtech in the classroom, take a look at this blog post, where we discuss how it can help parents, students, and administrators alike. 
